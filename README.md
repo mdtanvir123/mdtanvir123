@@ -19,8 +19,8 @@
 <br/>
 <br/>
 
-- 🌱 I’m currently learning Data Structures and Algorithms.
-- 🤔 I’m interested in Competitive Programming.
+- 🌱 I’m currently learning oop in c++
+- 🤔 I’m interested in prompt engineering
 - 💬 Ask me about anything [here](https://www.linkedin.com/in/mrsohelcse/)
 - ⚡ Fun fact: I often play video games.
 
