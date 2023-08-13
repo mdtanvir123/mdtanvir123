@@ -13,7 +13,7 @@
 <a href="https://instagram.com/tan._.vir_/">
   <img align="left" alt="Sohel's Instagram" width="22px" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" />
 </a>
-<a href="https://www.facebook.com/MD Tanvìr/">
+<a href="https://www.facebook.com/ii.7mdtanvir7.ii/">
   <img align="left" alt="Sohel's Facebook" width="22px" src="https://cdn-icons-png.flaticon.com/512/5968/5968764.png" />
 </a>
 <br/>
@@ -21,7 +21,7 @@
 
 - 🌱 I’m currently learning oop in c++
 - 🤔 I’m interested in prompt engineering
-- 💬 Ask me about anything [here](https://www.linkedin.com/in/mrsohelcse/)
+- 💬 Ask me about anything [here](https://www.linkedin.com/in//)
 - ⚡ Fun fact: I often play video games.
 
 
