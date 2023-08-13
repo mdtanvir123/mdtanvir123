@@ -7,10 +7,10 @@
 <a href="https://www.linkedin.com/in/mrsohelcse/">
   <img align="left" alt="Sohel's Linkdein" width="22px" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" />
 </a>
-<a href="https://github.com/mdtanvir123">
+<a href="https://github.com/mdtanvir123/">
   <img align="left" alt="Sohel's Github" width="22px" src="https://cdn-icons-png.flaticon.com/512/270/270798.png" />
 </a>
-<a href="https://instagram.com/ig_sohelrana/">
+<a href="https://instagram.com/tan._.vir_/">
   <img align="left" alt="Sohel's Instagram" width="22px" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" />
 </a>
 <a href="https://www.facebook.com/mrsohelcse/">
